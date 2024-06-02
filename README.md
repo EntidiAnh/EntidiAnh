@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+
+## Ngôn ngữ và Công cụ
+
+* [C++]
+* [Java](https://www.oracle.com/java/)
+* [HTML](https://www.w3schools.com/html/)
+* [CSS](https://www.w3schools.com/css/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [Git](https://www.git-scm.com/)
 <!--
 **EntidiAnh/EntidiAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
