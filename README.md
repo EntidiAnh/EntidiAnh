@@ -1,11 +1,4 @@
 ## Hi there 👋
-
-
-## Ngôn ngữ và Công cụ
-
-**Ngôn ngữ:**
-
-* ![(https://commons.wikimedia.org/wiki/Category:Java_logos)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)]
 <!--
 **EntidiAnh/EntidiAnh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
